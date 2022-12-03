@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate android developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Marsol](https://play.google.com/store/apps/details?id=com.aait.marsol)
+- 🔭 I’m currently working on [Eqelha | اعقلها](https://play.google.com/store/apps/details?id=com.devexy.eqelha)
 
 - 🌱 I’m currently learning **Jetpack compose**
 
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Android, Flutter, Kotlin, Java, Dart**
 
 - 📫 How to reach me **dev.m7mdibrahim@gmail.com**
 
