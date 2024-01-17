@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate android developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Eqelha | اعقلها](https://play.google.com/store/apps/details?id=com.devexy.eqelha)
-
-- 🌱 I’m currently learning **Jetpack compose**
+- 🔭 I’m currently working on [Sasco | ساسكو](https://play.google.com/store/apps/details?id=com.sasco.control)
 
 - 💬 Ask me about **Android, Flutter, Kotlin, Java, Dart**
 
 - 📫 How to reach me **dev.m7mdibrahim@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G97rwW2Ea9UeXo-LJEHigs2R66aohbWS/view?usp=sharing](https://drive.google.com/file/d/1G97rwW2Ea9UeXo-LJEHigs2R66aohbWS/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1G97rwW2Ea9UeXo-LJEHigs2R66aohbWS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
